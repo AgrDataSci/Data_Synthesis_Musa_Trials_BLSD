@@ -1,0 +1,15 @@
+﻿GENOTYPES,Time from planting to shooting (days),Time from shooting to harvest (days),Time from planting to harvest (days),Height of pseudostem at 3 months after planting (cm),Height of pseudostem at 6 months after planting (cm),Height of pseudostem at 9 months after planting (cm),Girth of pseudostem at 10 cm at 3 months after planting (cm),Girth of pseudostem at 10 cm at 6 months after planting (cm),Girth of pseudostem at 10 cm at 9 months after planting (cm),Bunch weight (kg),Number of hands per bunch,Total number of fingers per bunch,Average fruit length (cm),Average fruit weight (g),Average disease incubation time (days) ,Average disease evolution time (days) ,Average disease development time (days),yls_report
+FHIA-01,296,120,241,96,192,264,29,70,83,19.1,9,137,17,128,26.6,68.8,95.4,15
+FHIA-02,228,121,351,95,210,251,28,69,78,19.4,10,150,18,127,23.1,71.7,94.8,14
+FHIA-03,254,111,366,106,226,293,32,83,95,24.7,9,161,18,136,22.2,44.7,66.9,9
+FHIA-04,,,,94,187,274,24,63,84,,,,,,19.8,46.4,66.2,9
+FHIA-05,,,,101,209,285,27,71,90,,,,,,18.5,26,44.5,7
+FHIA-06,,,,98,98,299,27,74,99,,,,,,26,49.5,75.5,10
+FHIA-07,,,,96,96,246,28,68,84,,,,,,20.2,27.3,47.5,6
+Pisang Berlin,,,,,,,,,,,,,,,21.3,46.5,67.8,9
+Niyarma Yik,,,,,,,,,,,,,,,17.1,20.1,37.2,6
+Pisang Mas,,,,,,,,,,,,,,,21,38.3,59.3,8
+Grande Naine,,,,,,,,,,,,,,,14.3,20.5,34.7,5
+Pahang,,,,,,,,,,,,,,,26.8,-,-,0
+Tuu Gia,,,,,,,,,,,,,,,21.7,-,-,0
+Calcutta 4,,,,,,,,,,,,,,,22.7,-,-,0

@@ -1,0 +1,15 @@
+﻿GENOTYPES,Time from planting to shooting (days),Time from shooting to harvest (days),Time from planting to harvest (days),Height of pseudostem at shooting (cm),Girth of pseudostem at shooting (cm),Height of following sucker at shooting (cm),Number of suckers at shooting,Total number of leaves at shooting,Number of functional leaves at shooting,Disease index at shooting (Modified scale of Stover),Total number of leaves at harvest,Number of functional leaves at harvest,Bunch weight (kg),Number of hands per bunch,Total number of fingers per bunch,Average fruit length (cm),Average fruit circumference (cm),Incubation time (days),Evolution time (days),Development time (days),yls_report
+FHIA-01,334,124,458,270,61.1,210,8,16,0,12.3,8,4,28.5,10,145,21,14.9,32.5,74.9,107.3,10
+FHIA-02,266,112,378,240,51.3,200,6,12,4,10.5,8,7,22,9,136,18.4,15.3,27.6,89.5,116.2,12
+FHIA-03,271,107,378,260,68.6,210,5,12,2,12,7,5,31.8,11,198,16.8,16.4,29.4,67,97.9,10
+FHIA-04,328,125,453,340,67.5,210,6,13,13,11.6,5,2,28.7,11,159,23.3,12.7,26.8,53.6,83.3,10
+FHIA-05,352,105,457,300,59,100,8,13,12,13.4,3,0,26.7,9,130,22.8,11.8,31,35.7,66.6,8
+FHIA-06,422,97,519,410,84.1,180,6,13,12,9.8,8,5,36.7,11,152,21,19.7,33.6,41.5,75.1,9
+FHIA-07,395,102,497,430,93.1,190,8,12,11,13,6,4,34.4,12,163,19.7,17.9,29.4,38.8,70.7,8
+"Williams (Bell, South Johnstone)",311,85,396,240,51,160,8,15,13,24.9,2,0,19.7,9,144,18.3,9.4,,,,
+Niyarma Yik,326,,,300,48.9,120,7,,,,,,,,,,,29.9,28.5,57.8,7
+Pisang Berlin,310,,,200,36.5,130,8,,,,,,,,,,,34.2,67.6,101.2,10
+Pisang Mas,348,,,290,42.4,190,7,,,,,,,,,,,29.1,54.1,82.8,10
+Tuu Gia,320,,,250,35.6,240,21,,,,,,,,,,,30.2,,,0
+Pahang,348,,,260,33.8,230,9,,,,,,,,,,,,,,
+Calcutta 4,210,,,150,27.5,140,5,,,,,,,,,,,,,,0

@@ -1,0 +1,15 @@
+﻿GENOTYPES,Time from planting to shooting (days),Time from shooting to harvest (days),Height of pseudostem at 3 months after planting (cm),Height of pseudostem at 6 months after planting (cm),Height of pseudostem at 9 months after planting (cm),Height of pseudostem at 12 months after planting (cm),Height of pseudostem at shooting (cm),Girth of pseudostem at 6 months after planting (cm),Girth of pseudostem at 9 months after planting (cm),Girth of pseudostem at 12 months after planting (cm),Girth of pseudostem at shooting (cm),Number of leaves at shooting (cm),Number of leaves at harvest (cm),Bunch weight (kg),Number of hands per bunch,Total number of fingers per bunch,Disease incubation time (days),Disease evolution time (days),Youngest leaf spotted
+FHIA-01,375,173,54,120,192,240,270,31,44,52,56,12,5,23,11,145,16.2,109.5,10
+FHIA-02,327,162,59,136,224,270,270,35,48,55,54,12,7,18.3,8,115,15.6,132.7,9.8
+FHIA-03,326,161,71,169,255,280,280,37,48,58,60,12,7,16,8,118,16.5,96.5,7.5
+FHIA-05,403,175,69,155,261,314,340,35,51,59,61,9,6,24,11,132,15.3,75,6.7
+Pahang,370,185,81,140,233,260,330,20,28,35,39,10,5,3.1,Regime minable,-,15.5,-,
+Calcutta 4,305,140,81,145,240,240,240,27,32,32,33,12,5,1.8,Regime minable,-,15.9,-,
+SF 215 / NBA 14,-,80,24,-,-,"0,90",-,-,-,19,-,-,-,-,-,-,13.3,51.9,4.6
+Niyarma Yik,374,86,58,111,214,290,320,24,-,52,50,9,7,10,9,128,15,63.9,6.4
+Pisang Lilin,312,87,64,106,138,140,-,16,20,20,-,-,-,-,-,-,15.4,-,
+Pisang Mas,375,128,52,102,201,272,300,29,33,42,42,8,5,8.5,8,120,15.7,58.8,6.4
+Tuu Gia,367,-,64,122,190,240,270,24,29,33,34,14,5,10,8,96,15.9,-,
+Pisang Berlin,-,-,40,76,124,140,-,16,21,23,-,-,-,-,-,-,11.5,-,
+Ingagara,-,-,92,172,288,321,-,32,41,50,-,-,-,-,-,-,14.2,78.7,5.9
+I-63,-,-,-,-,-,250,-,-,-,30,-,-,-,-,-,-,18.4,110.3,7

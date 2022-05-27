@@ -1,0 +1,16 @@
+trial_id,cycle,genotypes,dsi_s,dsi_h,bw,planting_shooting,planting_harvest
+mgis_6,mother,FLHORBAN 916,1.2,20.2,13.4,169,273
+mgis_6,mother,FLHORBAN 920,1.6,28.8,14.4,178,296
+mgis_6,mother,FHIA-21,0.8,1.8,21.9,291,393
+mgis_6,mother,IBP 12,9.2,16.5,33.7,258,350
+mgis_6,mother,IBP 5-B,7.8,16.7,30.7,268,361
+mgis_6,mother,IBP 5-61,7,16.8,32.6,261,356
+mgis_6,mother,GCTCV-105,13.1,39.8,28.7,255,337
+mgis_6,mother,GCTCV-119,8.7,24.8,22,330,412
+mgis_6,mother,Formosana,18.8,98.7,17.1,301,399
+mgis_6,mother,Yangambi Km5,6.7,47.1,7,397,516
+mgis_6,mother,Calcutta 4,1.1,0,1.5,157,289
+mgis_6,mother,P. Klutuk Wulung,0.6,12.2,14.2,351,502
+mgis_6,mother,Pisang Ceylan,6.1,14.8,22.3,259,390
+mgis_6,mother,Gros Michel,8.7,26.2,25.9,259,356
+mgis_6,mother,Williams,34.5,62.3,25.7,203,309

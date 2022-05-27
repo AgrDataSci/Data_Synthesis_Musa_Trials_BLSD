@@ -1,0 +1,12 @@
+﻿GENOTYPES,Time from planting to shooting (days),Time from shooting to harvest (days),Time from planting to harvest (days),Height of pseudostem at shooting (cm),Height of following sucker at harvest (cm),Bunch weight (kg),Number of hands per bunch (hands),Total number of fingers per bunch (fingers),Average fruit weight (g),Disease index at 6 months after planting (index),Disease index at shooting (index),Disease index at harvest (index),Average disease development time (days),Youngest leaf spotted,Leaf emission rate (leaves)
+FHIA-23,271.48,98.1,369.58,325.35,274.17,39.37,13.28,246.55,160.4,6.79,6.27,14.56,124.97,10.46,0.71
+PV-03.44,159.95,108.85,268.8,326.75,372,12.98,7.4,119.85,107.85,24.68,24.27,86.45,72.44,5.36,0.97
+PA-03.22,154.56,112.15,266.8,223.75,200.73,10.36,7.44,116.42,88.71,23.4,23.58,93.34,75.82,5.04,0.96
+SH-3436-9,222.65,79.52,302.17,275.5,116.02,26.13,9.87,147.73,175.91,8.14,9.36,27.94,110.85,9.16,0.82
+Yangambi Km 5,187,102.44,289.44,249.8,232.08,21.36,8.2,172.88,122.8,0,0,0,0,0,
+Saba,191.04,94.5,285.54,350.4,244.7,28.73,8.48,123.77,232.37,21.65,20.28,56.25,105.65,8.16,0.86
+Pisang Ceylan,186.91,98.77,285.68,345.65,292.5,33.77,12.33,228.76,146.98,4.32,2.33,11.1,147.62,11.32,0.87
+Calcutta 4,115.87,133.98,249.85,204.62,195.85,2.89,6.95,118.39,25.27,0,0,0,0,0,
+Pisang Berlin,167.4,57,224.4,217.25,91,10.95,7.85,133.3,81.75,16.19,16.42,27.88,87.91,9.13,0.88
+Niyarma-Yik,210.48,40.26,250.74,287.15,69.95,6.44,6.25,85.33,75.14,36.15,27.9,64.2,48.37,4.69,0.71
+Local cv (French Sombre),215.92,,292.28,337.4,212.5,15.94,6.72,88.94,177.22,26.81,24.47,86.57,61.42,6.32,0.82

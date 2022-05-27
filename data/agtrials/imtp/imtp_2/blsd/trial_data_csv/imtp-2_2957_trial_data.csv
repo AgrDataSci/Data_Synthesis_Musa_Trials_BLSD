@@ -1,0 +1,13 @@
+﻿GENOTYPES,Time from planting to shooting (days),Time from shooting to harvest (days),Time from planting to harvest (days),Height of pseudostem at shooting (cm),Height of following sucker at harvest (cm),Bunch weight (kg),Number of hands per bunch (hands),Total number of fingers per bunch (fingers),Average fruit weight (g),Disease index at 6 months after planting,Disease index at shooting,Disease index at harvest,Disease incubation time - 4 months to bunching (days),Disease evolution time - 4 months to bunching (days),Disease development time - 4 months to bunching (days),Youngest leaf spotted,Leaf emission rate (leaves)
+SH-3436-9,345,,417,223,278,28.8,10,177,150.3,17.6,13.5,18.3,33,94,136,11,0.93
+FHIA-23,378,,432,,278,36.5,16,294,113.2,16.9,6.1,12.1,92,126,11,1.03,
+Saba,285,,414,257,323,17.1,6,67,231.1,14.8,21.5,35.1,36,80,115,9,0.84
+Yangambi Km 5,330,,427,293,303,16.1,9,196,81.3,18.9,20,17.4,31,76,107,11,1.06
+Pisang Ceylan,321,,424,287,326,20.3,12,191,100.8,20.1,19,22,30,71,101,10,0.82
+PV-03.44,239,,380,265,358,11.3,7,98,105.5,21.7,29.9,81.5,32,31,63,7,1.01
+PA-03.22,256,,396,180,255,9.3,6,88,97.3,21.6,34.8,98.4,30,31,62,7,0.87
+Calcutta 4,211,,,132,,,,,,2.5,1.8,<1,65,no mature lesions,,,1.03
+Pisang Lilin,,,,,,,,,,,,,,,,,
+Pisang Berlin,299,,357,186,161,5.3,7,91,49,18.1,22.7,26.3,30,44,76,8,1
+Niyarma-Yik,333,,362,277,133,8.2,7,83,87.2,34.4,29.5,39,24,22,45,5,1
+Williams,304,,366,219,219,22.8,10,172,121.9,31.2,30,97.2,25,28,53,5,0.87
