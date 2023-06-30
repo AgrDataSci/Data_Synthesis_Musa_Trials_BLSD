@@ -2,35 +2,11 @@ library(ggplot2)
 library(tmap)
 library(terra)
 library(sf)
-library(colorspace)
-library(patchwork)
-library(reshape2)
-library(RColorBrewer)
 
-
-# RColorBrewer::brewer.pal(12, "Set3")
-# display.brewer.pal(n = 12, name = "Paired")[1:]
-# 
-# display.brewer.pal(n = 8, name = "Set1")
-# display.brewer.pal(n = 8, name = "Dark2")
-# 
-# RColorBrewer::brewer.pal(9, "Set1")
-
-clim_colpal <- c(RColorBrewer::brewer.pal(5, "Set1"), "#10B6B1", "#A65628", "#0808F9",
-                 RColorBrewer::brewer.pal(7, "Dark2"),"limegreen",
-                 "#710175", "#105573", "#436605", "#D7430D", "navy", "orangered")
-
-
-clim_colpal_clust <- c(RColorBrewer::brewer.pal(5, "Set1"),
-                       "#710175", "#105573", "#436605", "#D7430D", "navy")
-
-
-data("World")
+data("World", package = "tmap")
 
 musa_trials_loc <- read.csv("data/processed/trial_info_ext.csv", 
                                  check.names = FALSE)
-
-#imtp_locs <- read.csv("data/agtrials_banana/clean/imtp/imtp_dates.csv")
 
 musa_trials_loc_sf <- sf::st_as_sf(musa_trials_loc,
                                    coords = c("lon", "lat"),
@@ -47,10 +23,6 @@ nrow(unq_locs_sf)
 unq_locs_sf$x <- st_coordinates(unq_locs_sf)[,1]
 
 unq_locs_sf$y <- st_coordinates(unq_locs_sf)[,2]
-
-#merge(unq_locs_sf, imtp_locs, by.x = c("x","y"), by.y = c("longitude","latitude"))
-
-#unq_locs_sf <- unq_locs_sf[!unq_locs_sf$location_name == "Dole", ]
 
 unq_locs_sf[unq_locs_sf$location_name == "Dole", ]$location_name <- "Kidapawan"
 
@@ -76,7 +48,8 @@ trials_p <- ggplot() +
         legend.position = "none",
         legend.direction = "horizontal",
         legend.title = element_blank(),
-        panel.background = element_rect(fill = "grey45")) +
+        panel.background = element_rect(fill = "grey45"), 
+        panel.grid.major = element_line(color = NA)) +
   scale_color_manual(values = rep("#ff4500", 22))
 
 trials_p
