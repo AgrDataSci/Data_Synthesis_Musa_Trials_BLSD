@@ -5,7 +5,7 @@ library(GGally)
 library(ggnet2)
 library(sna) #for function  %v% 
 
-#First fun data loading and preparation lines in pltree_mode
+#First load data  and preparation lines in pltree_model
 
 
 musa_ranks <- as.rankings(musa_trials_data)
