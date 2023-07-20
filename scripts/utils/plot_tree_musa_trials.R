@@ -246,7 +246,7 @@ plot_tree_musa <- function(object,
   #### add genotypes info ------
   nrow(coeffs)
   
-  coeffs <- merge(coeffs, genotypes_info, by.x = "items", by.y = "i_name")
+  coeffs <- merge(coeffs, genotypes_info, by.x = "items", by.y = "name")
   
   #### --------------------
   

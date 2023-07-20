@@ -19,7 +19,7 @@ imtp_1_data <- lapply(imtp_1_data, function(X) as.data.frame(X))
 imtp_1_data <- lapply(imtp_1_data, function(X) correct_names(X))
 
 #use trial file name to creat trial id
-imtp_1_trial_names <- gsub(pattern = "data/agtrials/imtp/imtp_1/trial_data_csv/imtp-1_",
+imtp_1_trial_names <- gsub(pattern = "data/agtrials/imtp/imtp_1/trial_data_csv//imtp-1_",
                                   replacement = "imtp_",
                                   x = imtp_1_files)
 

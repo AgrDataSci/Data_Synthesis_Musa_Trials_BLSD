@@ -146,7 +146,9 @@ table_2 <- table_2[, c("country",
                            "prec",
                            "rhum")]
 
-table_2
+table_2 <- cbind(table_2[1:2],
+                 round(table_2[3:4], 3),
+                 round(table_2[5:7], 2))
 
 write.csv(x = table_2,
           file = "output/table_2.csv")

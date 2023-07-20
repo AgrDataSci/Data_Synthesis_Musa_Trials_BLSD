@@ -25,7 +25,7 @@ trial_names_imtp2 <- gsub(pattern = "_trial_data",
                           replacement = "", 
                           x = trial_names_imtp2)
 
-trial_names_imtp2 <- gsub(pattern = "data/agtrials/imtp/imtp_2/blsd/trial_data/",
+trial_names_imtp2 <- gsub(pattern = "data/agtrials/imtp/imtp_2/blsd/trial_data//",
                           replacement = "",
                           x = trial_names_imtp2)
 
