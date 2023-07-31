@@ -21,5 +21,5 @@ grep(pattern = "Ka|Mb|Mt|Ma|Ta", x = x, value = T)
 
 sum(grepl(pattern = "Ka|Mb|Mt|Ma|Ta", x = x))
 
-4 + 13 + 26 + 3 + 2 + 2 + 60
+
 
