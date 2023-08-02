@@ -3,4 +3,4 @@
 <!-- badges: end -->
 # Data_Synthesis_Musa_Trials_BLSD
 
-Companion code and data for the paper "Rank-based data synthesis of heterogeneous trials to identify the effects of climatic factors on the reaction of <i>Musa</i> genotypes to black leaf streak disease".
+Companion code and data for the paper "Rank-based data synthesis of heterogeneous trials to identify the effects of climatic factors on the reaction of <i>Musa</i> genotypes to black leaf streak disease", published in the Agronomy Journal https://doi.org/10.1002/agj2.21436
